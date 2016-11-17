@@ -1,6 +1,6 @@
 Package: stringi
-Version: 1.1.1
-Date: 2016-05-25
+Version: 1.1.2
+Date: 2016-09-30
 Title: Character String Processing Facilities
 Description: Allows for fast, correct, consistent, portable, as well as
     convenient character string/text processing in every locale and any
@@ -26,12 +26,12 @@ Author: Marek Gagolewski [aut, cre] and Bartek Tartanus [ctb] (stringi
 Maintainer: Marek Gagolewski <gagolews@rexamine.com>
 RoxygenNote: 5.0.1
 NeedsCompilation: yes
-Packaged: 2016-05-25 15:59:57 UTC; gagolews
+Packaged: 2016-09-30 14:18:17 UTC; gagolews
 License_is_FOSS: yes
 Repository: CRAN
-Date/Publication: 2016-05-27 18:08:57
-Built: R 3.3.0; x86_64-apple-darwin13.4.0; 2016-05-28 09:25:45 UTC;
+Date/Publication: 2016-10-01 14:26:04
+Built: R 3.3.0; x86_64-apple-darwin13.4.0; 2016-10-06 13:44:09 UTC;
     unix
-InstallAgent: packrat 0.4.7.1
+InstallAgent: packrat 0.4.8.1
 InstallSource: CRAN
-Hash: 48f2afc5dfecb65ba32a87d38b3533ff
+Hash: 1ad6b1cc11d982ac233bf2fa2f7c9684

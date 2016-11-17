@@ -25,6 +25,6 @@ Packaged: 2016-07-04 14:29:09 UTC; rstudio
 Repository: CRAN
 Date/Publication: 2016-07-04 20:29:17
 Built: R 3.3.0; ; 2016-07-05 10:23:41 UTC; unix
-InstallAgent: packrat 0.4.7.1
+InstallAgent: packrat 0.4.8.1
 InstallSource: CRAN
 Hash: f21de45a64c18fbe2fadb409713dad04

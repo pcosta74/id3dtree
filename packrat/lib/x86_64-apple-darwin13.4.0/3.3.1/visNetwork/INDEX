@@ -20,6 +20,8 @@ visEvents               Network visualization events
 visExport               Network export configuration
 visFit                  Network visualization fit method
 visFocus                Network visualization focus method
+visGetEdges             Function to get edges data, with shiny only.
+visGetNodes             Function to get nodes data, with shiny only.
 visGetPositions         Network visualization getPositions method
 visGroups               Network visualization groups options
 visHierarchicalLayout   Network visualization Hierarchical layout

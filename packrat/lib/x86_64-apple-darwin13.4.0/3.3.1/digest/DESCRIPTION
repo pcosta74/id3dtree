@@ -29,6 +29,6 @@ Date/Publication: 2016-08-02 16:59:46
 Built: R 3.3.0; x86_64-apple-darwin13.4.0; 2016-08-03 08:44:54 UTC;
     unix
 Archs: digest.so.dSYM
-InstallAgent: packrat 0.4.7.1
+InstallAgent: packrat 0.4.8.1
 InstallSource: CRAN
 Hash: 87165608ca8aeb0958835c3c5b52b6b7

@@ -15,6 +15,8 @@ visEvents	visEvents
 visExport	visExport
 visFit	visFit
 visFocus	visFocus
+visGetEdges	visGetEdges
+visGetNodes	visGetNodes
 visGetPositions	visGetPositions
 visGroups	visGroups
 visHierarchicalLayout	visHierarchicalLayout

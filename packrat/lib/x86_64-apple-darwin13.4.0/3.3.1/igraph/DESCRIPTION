@@ -37,6 +37,6 @@ Date/Publication: 2015-06-26 11:13:24
 Built: R 3.3.0; x86_64-apple-darwin13.4.0; 2016-05-05 16:35:12 UTC;
     unix
 Archs: igraph.so.dSYM
-InstallAgent: packrat 0.4.7.1
+InstallAgent: packrat 0.4.8.1
 InstallSource: CRAN
 Hash: 26ac36402e881905359daabfd9ba4057

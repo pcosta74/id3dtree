@@ -1,3 +1,13 @@
+htmlwidgets 0.8
+-----------------------------------------------------------------------
+
+* Export getDependency function
+
+* `onRender` hooks were firing too early when used in Shiny apps.
+
+* Widget IDs: only restore random.seed when non-NULL
+
+
 htmlwidgets 0.7
 -----------------------------------------------------------------------
 

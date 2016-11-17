@@ -30,6 +30,6 @@ Date/Publication: 2016-06-08 10:40:15
 Built: R 3.3.0; x86_64-apple-darwin13.4.0; 2016-06-09 09:08:22 UTC;
     unix
 Archs: plyr.so.dSYM
-InstallAgent: packrat 0.4.7.1
+InstallAgent: packrat 0.4.8.1
 InstallSource: CRAN
-Hash: 75ca080b10a9314a9b293964331e5df7
+Hash: fee2f470d73a85f4db7e89d771427e57

@@ -22,6 +22,6 @@ Date/Publication: 2016-03-21 23:36:11
 Built: R 3.3.0; x86_64-apple-darwin13.4.0; 2016-05-04 14:23:33 UTC;
     unix
 Archs: htmltools.so.dSYM
-InstallAgent: packrat 0.4.7.1
+InstallAgent: packrat 0.4.8.1
 InstallSource: CRAN
-Hash: a96dc1cfe628e66337c86be732567df2
+Hash: 49415ab4718e9d37c7ddf74988493c23

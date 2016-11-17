@@ -1,6 +1,7 @@
 htmlwidgets-package	htmlwidgets-package
 appendContent	prependContent
 createWidget	createWidget
+getDependency	getDependency
 htmlwidgets	htmlwidgets-package
 htmlwidgets-shiny	htmlwidgets-shiny
 JS	JS

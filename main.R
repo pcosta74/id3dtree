@@ -18,9 +18,7 @@ id3.train <- function(form, data) {
 }
 
 id3.predict <- function(tree, ds) {
-  while(!tree$isLeaf) {
-    tree$Climb(tree$children[1])
-  }
+  # TBD
 }
 
 
